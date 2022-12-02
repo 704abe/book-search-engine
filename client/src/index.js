@@ -11,5 +11,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-
-// heroku config:set MONGODB_URI="mongodb+srv://704abe:QkjjjNJtHw5LSUiE@cluster0.n9z04.mongodb.net/?retryWrites=true&w=majority"
